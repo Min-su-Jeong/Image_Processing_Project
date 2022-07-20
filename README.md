@@ -206,6 +206,3 @@ Image filtering, Image segmentation, Morphological transformation, Connected com
 <img align="center" width="480" height="250" src="https://user-images.githubusercontent.com/74342121/180021038-fe805673-2cb9-42ed-8b5e-1d990189a1ed.png">
 
 <img align="left" width="480" height="250" src="https://user-images.githubusercontent.com/74342121/180021137-35ad58f9-2c2f-4ade-b13b-684785822efe.png">
-
-<img align="center" width="480" height="250" src="https://user-images.githubusercontent.com/74342121/180022152-9b51120d-ee0a-4b4b-9fe1-9bc93322a242.png">
-
